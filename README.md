@@ -9,3 +9,4 @@ cd zoomPwd
 pip install -r requirements.txt
 python bot.py
 ```
+## If you have some questions create Issues
